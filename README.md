@@ -14,7 +14,7 @@
 + [SQLyog ≥ 13.3.0-0](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/blob/main/Dependency/server_software/SQLyog/SQLyog-13.3.0-0.x64Community.exe)
 + [Boost ≥ 1.78](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/releases/tag/boost_1_78_0)
 + [CMake ≥ 3.29.8](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/blob/main/Dependency/server_software/CMake/cmake-3.29.8-windows-x86_64.msi)
-+ [OpenSSL ≥ v3.3.2](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/releases/tag/Win64OpenSSL-3_3_0)
++ [OpenSSL ≥ v3.3.2](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/releases/tag/Win64OpenSSL-3_3_2)
 + [Server software dependency](https://github.com/AzerothUniverseCore/AzerothUniverseDependency/tree/main/Dependency/server_software)
 
 ## Discord
